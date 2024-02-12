@@ -1,3 +1,12 @@
+#Missionaries and Cannibals game
+#Problem Statement:
+# The missionaries and cannabels problem is usually stated as follows (see the figure given below). 
+# Three missionaries and three cannibals are on one side of a river, along with a boat that can hold one or two people. 
+# Find a way to get everyone to the other side without ever leaving a group of missionaries in one place outnumbered by the cannibals in that place. 
+# This problem is famous in AI because it was the subject of the first paper that approached problem formulation from an analytical viewpoint.
+
+
+
 class Problem:
     def __init__(self):
         pass
